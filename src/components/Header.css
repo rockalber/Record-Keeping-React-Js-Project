@@ -1,0 +1,9 @@
+body{
+    margin-top: 0%;
+    width: 100%;
+}
+.header {
+    color: white;
+    background : #192a56;
+    padding: 1px;
+  }
