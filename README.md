@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-Navigate to this link:
-record-keeping-project.netlify.app
+Navigate to this link:  [Visit Site](https://record-keeping-project.netlify.app).
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
