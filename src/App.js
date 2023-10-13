@@ -27,7 +27,7 @@ function App() {
   };
   const SubmitHandler = event => {
     if (Form.User.trim().length === 0 || Form.Email.trim().length === 0) {
-      return console.log("working");
+      return console.log("Can't be Empty");
     } else {
       event.preventDefault();
       SetData([...Data, Form]);
